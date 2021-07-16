@@ -1,0 +1,5 @@
+Fazer com que a imagem do perfil carregue em modo mobile
+
+Componente que vai padronizar o lado direito do site
+ - renderizar título e a lista
+ - limitar o número máximo de itens a 6
