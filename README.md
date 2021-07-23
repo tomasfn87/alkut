@@ -1,5 +1,10 @@
-<<<<<<< HEAD
 # alurakut
-=======
+----------
 # alkut
->>>>>>> 4c29d85db5ec51a9b31e882802621316a7183e90
+-------
+
+  Veja o projeto funcionando e adicione suas
+próprias comunidades na nossa Single Page Application:
+
+https://alkut-tomasfn87.vercel.app/
+-----------------------------------
